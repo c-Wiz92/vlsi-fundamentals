@@ -1,0 +1,4 @@
+module Half_Adder (input A, B, output Sum, Carry);
+  xor(Sum, A, B);
+  and(Carry, A, B);
+endmodule
