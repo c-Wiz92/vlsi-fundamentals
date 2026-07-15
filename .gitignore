@@ -6,3 +6,4 @@ modelsim.ini
 *.log
 *.vcd
 *.vpd
+*.cr.mti
